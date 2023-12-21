@@ -1,5 +1,9 @@
 itaimei
 你干嘛
+<<<<<<< HEAD
 打死孙文浩和韩康和韩明辉
+=======
+asdasdasdsdasdasd
+>>>>>>> hbx
 香精煎鱼
-jinitaimei  你干嘛
+initaimei  你干嘛
